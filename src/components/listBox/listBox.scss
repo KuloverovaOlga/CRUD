@@ -1,0 +1,14 @@
+@import '../../styles/variables/variables';
+
+.list-box {
+  // .list-box__list
+  &__list {
+    @extend %flexColumn;
+    border-radius: 1.2rem;
+    border: 0.1rem solid $orange;
+    box-shadow: 1.5rem 1.5rem 3rem $black25;
+    overflow: hidden;
+    min-height: 7.3rem;
+
+  }
+}

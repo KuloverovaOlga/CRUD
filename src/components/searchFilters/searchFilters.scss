@@ -1,0 +1,18 @@
+@import '../../styles/variables/variables';
+
+.search {
+  // .search__btn-box
+
+  &__btn-box {
+    @extend %flexCenterStart;
+    gap: 1rem;
+    @include small-tablet {
+      justify-content: space-between;
+    }
+  }
+
+  // .search__btn
+
+  &__btn {
+  }
+}

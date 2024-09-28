@@ -1,0 +1,15 @@
+@import '../../styles/variables/variables';
+
+.search-box {
+  // .search-box__inner
+
+  &__inner {
+    @extend %flexColumn;
+    gap: 3.2rem;
+    padding: 2.4rem;
+    background-color: $orange;
+    border-radius: 1.2rem;
+    box-shadow: 1.5rem 1.5rem 3rem $black25;
+    color: $white;
+  }
+}
