@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/CRUD/static/css/main.2298ff62.css",
+    "main.js": "/CRUD/static/js/main.d5e784e5.js",
+    "static/media/Gilroy-Medium.woff2": "/CRUD/static/media/Gilroy-Medium.d77d183e2c85869b5cfc.woff2",
+    "static/media/Gilroy-SemiBold.woff2": "/CRUD/static/media/Gilroy-SemiBold.d5dea130e14921c7f393.woff2",
+    "static/media/Gilroy-Regular.woff2": "/CRUD/static/media/Gilroy-Regular.5f0cdf32257af1dec00b.woff2",
+    "static/media/star.svg": "/CRUD/static/media/star.6e8218cc5bb345e2c0ef58a4e6fa7748.svg",
+    "static/media/cookie.svg": "/CRUD/static/media/cookie.20a6c9364bd2a65407cf3c1c780f25fc.svg",
+    "static/media/trash.svg": "/CRUD/static/media/trash.0af2e25432f44253a39735efdcc94348.svg",
+    "index.html": "/CRUD/index.html",
+    "main.2298ff62.css.map": "/CRUD/static/css/main.2298ff62.css.map",
+    "main.d5e784e5.js.map": "/CRUD/static/js/main.d5e784e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2298ff62.css",
+    "static/js/main.d5e784e5.js"
+  ]
+}
