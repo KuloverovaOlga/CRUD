@@ -11,7 +11,7 @@
 
 ---
 
-[Demo Link <br>![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://kuloverovaolga.github.io/crud/dist/)
+[Demo Link <br>![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://kuloverovaolga.github.io/crud/build/)
 
 
 <h2>📱 My contacts:</h2> 
